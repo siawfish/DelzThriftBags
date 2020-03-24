@@ -1,0 +1,271 @@
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #242424;
+    border-radius: 0;
+    border-top: #242424;
+    border-left: #242424;
+    border-right: #242424;
+    border-bottom-color: pink;
+    
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: pink;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+    color: pink;
+    font-weight: 400;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a{
+    color: pink;
+    background-color: #242424;
+    cursor: pointer;
+
+}
+
+.navbar-nav .open .dropdown-menu{
+    background-color: #242424;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+    background-color: #242424;
+}
+
+
+body{
+    background-color: #242424;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-brand{
+    color: #fff;
+    font-size: x-large;
+}
+
+.breadcrumb li a{
+    text-decoration: none;
+    color: #242424;
+}
+
+.breadcrumb{
+    background-color: grey;
+}
+
+.panel .panel-heading{
+    background-color: pink;
+    color: #242424;
+    border: none;
+}
+
+.list-group .list-group-item.active{
+    background-color: pink;
+}
+
+.list-group .list-group-item{
+    background-color: grey;
+    border-color: #242424;
+    color: #242424;
+    cursor: pointer;
+}
+
+.filter input{
+    width: 100%;
+    border-radius: 4px;
+    padding: 8px;
+    background-color: #999;
+    border: 1px solid #242424;
+    outline: none;
+}
+
+.table{
+    margin-top: 20px;
+}
+
+.table tr{
+    padding: 10px;
+}
+
+.sidePane a.active{
+    color: #242424;
+}
+
+.panel-body{
+    background-color: #999;
+    color: #000;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+    border-top-color: #242424;
+}
+
+.table .thead{
+    color: #242424;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.modal-content{
+    background-color: #242424;
+  }
+  
+  .modal-header {
+    border-bottom: 1px solid pink;
+  }
+
+  .modal-footer {
+    border-top: 1px solid pink;
+  }
+
+  .modal-content form label{
+    color: pink;
+  }
+
+  .modal-content form input {
+    background-color: #242424;
+    border: none;
+    border-bottom: 1px solid pink;
+  }
+
+  .modal-content form textarea {
+    background-color: #242424;
+    border: none;
+    border-bottom: 1px solid pink;
+  }
+
+  .modal-content .catSelect {
+    width: 100%;
+    background: #242424;
+    border: none;
+    border-bottom: 1px solid pink;
+    color: #495057;
+  }
+
+  .modal-body .error{
+    color: red;
+    text-align: center;
+  }
+
+  .modal-body .success {
+    color: green;
+    text-align: center;
+  }
+  
+  .modal-body .upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  
+  .modal-body .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+  
+  .card{
+      padding: 15px 5px;
+      background-color: pink;
+      margin: 5px;
+      height: 200px;
+      border-radius: 8px;
+  }
+
+  .card .glyphicon{
+      font-size: 80px;
+  }
+
+  .card .title{
+      font-weight: 100;
+      font-size: 30px;
+      float: right;
+
+  }
+
+  .figures{
+    margin-top: 40px;
+  }
+
+  .figures span{
+      font-size: 30px;
+      font-weight: 200;
+      padding: 3px 0px 3px 3px;
+      color: #242424;
+  }
+
+  .noPad{
+      padding: 0px;
+  }
+
+  .postDiv{
+      background-color: grey;
+      text-align: center;
+      height: auto;
+
+  }
+
+  .postDiv a button{
+    color: #242424;
+  }
+
+  .postText{
+    padding: 45px;
+  }
+
+  .postDiv button{
+    margin-bottom: 25px;
+  }
+
+.btn-primary{
+      background-color: pink;
+      border-color: #242424;
+  }
+
+a:hover{
+    text-decoration: none;
+    color: pink;
+}
+
+.btn-primary:hover{
+    background-color: #242424;
+    border-color: pink;
+    color: pink;
+    cursor: pointer;
+}
+
+.btn-primary:active{
+    background-color: #242424;
+    border-color: pink;
+    color: pink;
+}
+
+.btn-primary:visited{
+    background-color: #242424;
+    border-color: pink;
+    color: pink;
+}
+
+.btn-primary:focus{
+    background-color: #242424;
+    border-color: pink;
+    color: pink;
+}
+
+.pad{
+    margin: 15px;
+}
+
+#gif{
+    display: none;
+}
+  
+.cardsList{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
